@@ -1,0 +1,44 @@
+
+The birth rates were drastically reduced across all clusters 
+for both time periods. Conversly, the life expectancy rose 
+across the board. The biggest improvements came from cluster 
+3 who managed to get their birth rates down from 43.8 in 1953 
+to 19.12 in 2008. This cluster's life expectancy also increased
+from 56.3 to 69.7 over the same time period.
+Cluser 1 was the biggest cluster for both time periods and also 
+had the lowest birth rates and highest life expectancy for both
+years.
+The cluster populations did seem to vary across the different 
+years but seemed to show certain patterns, for example, cluster
+1 seemed to be populated mostly by european and north American
+countries, cluster 2 was mostly populated by African and Middle 
+Eastern nations and cluster 3 had a proportionally higher number 
+of North African and island nations.
+In terms of the scatter plot, the data points were much more 
+spread out across the chart in 1953, with a slightly higher density
+in the bottom right hand corner. While in 2008 there was a much higher
+denisty in the top left hand corner of the graph, attributed to the 
+global reduction in mean birth rates and increase in life expectancy.
+There were only a few stragglers toward the bottom right corner, all from
+struggling, under developed countries.
+
+
+Unlike when looking at the nations at different times seperately, when 
+looking at them all together, the first cluster is by far in the worst shape,
+while the second is showing the best stats. Cluster 3 has remained steady
+in second place.
+In comparing 1953 United States to 2008 South Africa, we can see that 
+South Africa has the superior (lower) birth rates but is still not ahead in
+terms of life expectancy.
+There are alot of African nations from 2008 (as well as a few countries 
+from the Middle East) in the first cluster, which is otherwise overwhelmingly 
+populated by countries by 1953. This is obviously because these countries are 
+active in wars and low in technological advancement. They are also 
+are still reproducing way too much on average and because they do not 
+have the best access to medical care, the result is a shorter life span.
+In cluster 2 we can see alot of Western European and North American countries
+(as well as Australia) from 1953, in a cluster dominated by 08 nations.
+This is because these countries were well ahead of the rest of the world in 
+the 50s (especially Western Europe, even to this day) in terms of cultural 
+development (having less children) and in terms of medical resources, which
+extend the average life span.
